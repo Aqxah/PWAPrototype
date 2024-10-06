@@ -1,1 +1,1 @@
-# PWAPrototype
+# This is the beginning stages and interworkings to design a PWA that will allow users to navigate the application and plan their vacations accordingly to what best suits their needs. It will have the ability to showcase and allow for the booking of many different destination spots. 
